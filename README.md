@@ -1,6 +1,6 @@
 # Scraper d'Emplois Python
 
-Ce projet contient des scripts Python qui scrappent une page web contenant des listes de livres ou de citations afin d'en extraire et afficher différentes information. Il utilise les bibliothèques `requests`, `BeautifulSoup`, `selenium`, `webdriver-manager` pour effectuer des requêtes HTTP et analyser le contenu HTML.
+Ce projet contient des scripts Python qui scrappent des pages web contenant des listes de livres ou de citations afin d'en extraire et afficher différentes informations. Il utilise les bibliothèques `requests`, `BeautifulSoup`, `selenium`, `webdriver-manager` pour effectuer des requêtes HTTP et analyser le contenu HTML.
 
 
 ## Pré-requis
