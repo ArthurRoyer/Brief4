@@ -2,11 +2,11 @@ import requests
 import time
 
 def scrape_random_quote(url):
-    start_time = time.time()  # Start the timer
+    start_time = time.time()  # Debut du timer
 
     response = requests.get(url)
 
-    # Calculate the elapsed time
+    # Calcul du temps
     elapsed_time = time.time() - start_time
 
     if response.status_code == 200:
