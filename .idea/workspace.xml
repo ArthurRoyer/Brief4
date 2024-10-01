@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eef2d71a-a594-4dd3-985b-923d5f237baa" name="Changes" comment="On essaye">
-      <change afterPath="$PROJECT_DIR$/Question 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Question 4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Question 5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Question 6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Question 7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Question 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Question 1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Question 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Question 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Question_8.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +54,7 @@
     "Python.Question 5.executor": "Run",
     "Python.Question 6.executor": "Run",
     "Python.Question 7.executor": "Run",
+    "Python.Question_8.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "preferences.general"
@@ -97,7 +92,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727770816206</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="On essaye">
+      <option name="closed" value="true" />
+      <created>1727788370918</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727788370918</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
