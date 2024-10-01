@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eef2d71a-a594-4dd3-985b-923d5f237baa" name="Changes" comment="On essaye">
+    <list default="true" id="eef2d71a-a594-4dd3-985b-923d5f237baa" name="Changes" comment="Maj">
+      <change afterPath="$PROJECT_DIR$/Question_9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Question_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Question_8.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +55,7 @@
     "Python.Question 6.executor": "Run",
     "Python.Question 7.executor": "Run",
     "Python.Question_8.executor": "Run",
+    "Python.Question_9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "preferences.general"
@@ -100,11 +101,28 @@
       <option name="project" value="LOCAL" />
       <updated>1727788370918</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Maj">
+      <option name="closed" value="true" />
+      <created>1727791664512</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727791664512</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Maj">
+      <option name="closed" value="true" />
+      <created>1727791761871</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727791761871</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="On essaye" />
-    <option name="LAST_COMMIT_MESSAGE" value="On essaye" />
+    <MESSAGE value="Maj" />
+    <option name="LAST_COMMIT_MESSAGE" value="Maj" />
   </component>
 </project>
